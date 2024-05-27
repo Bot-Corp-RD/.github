@@ -7,7 +7,7 @@
 - [Projects](#projects)
     - [Bot-Client](#bot-client)
     - [Bot-Api](#bot-api)
-    - [Bot-Bo](#backoffice)
+    - [Bot-Backoffice](#backoffice)
 
 <div style="border-top: 2px solid #4CAF50; margin-top: 20px;"></div>
 
