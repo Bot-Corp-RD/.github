@@ -8,6 +8,7 @@
     - [Bot-Client](#bot-client)
     - [Bot-Api](#bot-api)
     - [Bot-Backoffice](#backoffice)
+- [Arquitecture](#arquitecture)
 
 <div style="border-top: 2px solid #4CAF50; margin-top: 20px;"></div>
 
@@ -61,3 +62,6 @@ We are a group of developers focused on the design of commercial bots. Our goal 
     </ul>
   </li>
 </ul>
+
+## Arquitecture
+<img src="/assets/arquitecture.png">
